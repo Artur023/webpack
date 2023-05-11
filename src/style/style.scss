@@ -1,0 +1,12 @@
+body {
+  font-family: 'Karolina-Regular';
+  background-color: $back;
+  color: $text;
+}
+
+.image{
+  width: 300px;
+  height: 500px;
+  background-size: cover;
+  background-image: url('img/item3.jpg');
+}
